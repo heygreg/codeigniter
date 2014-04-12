@@ -39,7 +39,7 @@ class Geolocation {
             
             case("::1"):
                 
-                return "173.75.42.242";
+                return "Home IP Address";
                 
             default:
                 
